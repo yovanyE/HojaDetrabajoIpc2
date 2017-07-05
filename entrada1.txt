@@ -1,0 +1,4 @@
+Cuadrado: amarillo;
+BarraHorizontal: verde;
+Punto:morado;
+ZHorizontal:celeste;
